@@ -1,0 +1,57 @@
+{
+    "name": "crud",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "5.0.0.149",
+            "frameworkVersion": "5.0.0.736"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Auto Expand",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            }
+        },
+        "urlPrefix": "http://localhost:2222",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "projectHasEnabledWebServer": true,
+        "lastBuildSelection": {
+            "value": "webBuild",
+            "display": "Build web app"
+        }
+    },
+    "xdsVersion": "3.1.0",
+    "xdsBuild": 0,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000006,
+    "framework": "ext50",
+    "viewOrderMap": {
+        "view": [
+            "0899a656-f258-4278-81d6-bd6334082ec7"
+        ],
+        "store": [
+            "92cd3934-a90b-4c67-b546-2707074468f2"
+        ],
+        "controller": [
+            "0b4b66fc-fe10-44c7-9a44-116e65403fd0"
+        ],
+        "model": [
+            "a4e4a4df-b19b-4e7a-8b6f-7538b0ef40f1"
+        ],
+        "resource": [
+            "00da63a2-1c1c-4914-b6d8-ecf823d624fc"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
